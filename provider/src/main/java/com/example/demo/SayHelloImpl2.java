@@ -6,12 +6,11 @@ import org.apache.dubbo.config.annotation.Service;
 /**
  * @description:
  * @author: Leesin Dong
- * @date: Created in 2020/4/20 9:11
+ * @date: Created in 2020/5/1 8:07
  * @modified By:
  */
-
 @Service()
-public class SayHelloImpl implements ISayHelloService {
+public class SayHelloImpl2 implements ISayHelloService {
 
     @Override
     public String sayHello() {

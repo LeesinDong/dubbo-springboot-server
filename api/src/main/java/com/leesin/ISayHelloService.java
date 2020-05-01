@@ -8,4 +8,5 @@ package com.leesin;
  */
 public interface ISayHelloService {
     String sayHello();
+    String sayByeBye(String a );
 }
