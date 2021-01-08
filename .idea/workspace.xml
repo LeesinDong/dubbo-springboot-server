@@ -43,11 +43,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c23686e2-88c3-41a9-aa9f-1d88c69f1282" name="Default Changelist" comment="fixed">
-      <change afterPath="$PROJECT_DIR$/provider/直连.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="c23686e2-88c3-41a9-aa9f-1d88c69f1282" name="Default Changelist" comment="fixed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +173,7 @@
       <workItem from="1588252723086" duration="2960000" />
       <workItem from="1588291507928" duration="1292000" />
       <workItem from="1610071969666" duration="1151000" />
-      <workItem from="1610073134540" duration="1629000" />
+      <workItem from="1610073134540" duration="1717000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1587339559769</created>
@@ -214,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610073152968</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fixed">
+      <created>1610074977060</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610074977060</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -288,10 +291,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="141" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1610073109269" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1610073153973">
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1610074978403">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1610073153973" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1610074978403" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
